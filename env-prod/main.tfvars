@@ -81,7 +81,7 @@ rabbitmq = {
   }
 }
 BASTION_NODE = "172.31.88.133/32"
-private_zone_id = "Z08794052HXPQY7AFUVKG"
+private_zone_id = "Z05924431K7Z6FJ26Q2EY"
 public_zone_id  = "Z00328002YWJIOD14P0G"
 
 alb = {
