@@ -25,3 +25,7 @@ app-setup:
 alb:
   source: "https://github.com/Msahu201989/tf-module-alb"
   version: "main"
+
+eks:
+  source: "https://github.com/Msahu201989/tf-module-eks"
+  version: "main"
