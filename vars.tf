@@ -11,3 +11,4 @@ variable "private_zone_id" {}
 variable "alb" {}
 variable "public_zone_id" {}
 variable "ACM_ARN" {}
+variable "eks" {}
